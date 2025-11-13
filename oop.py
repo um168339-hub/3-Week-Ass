@@ -5,6 +5,7 @@ class student:
         self.mark2 = mark2
         self.mark3 = mark3
         sum = mark1+mark2+mark3
-        avg = sum/2
+        avg = sum/3
         print(avg)
+
 std = student('Umar',68,80,75)
